@@ -15,11 +15,13 @@ public class Datatypes
       int in=21444;
       long lo= 98466673l;  //for long use L or l(Literals)
       char ch='$';         // $ _ can also be printed like single characters
+      String s1="Hello";
+      String s2="Excusme";
 
       //Numeric type--floating type
       float fl=124.78F;    //for float use F or f(Literals)
       double  dl=123456.897578;    //not able to use do variable name
 
-      System.out.println(bo+" "+by+" "+sh+" "+in+" "+lo+" "+ch+" "+fl+" "+dl);
+      System.out.println(bo+" "+by+" "+sh+" "+in+" "+lo+" "+ch+"  "+s1+" "+s2+" "+fl+" "+dl);
   }
 }
