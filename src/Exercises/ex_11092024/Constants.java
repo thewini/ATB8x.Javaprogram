@@ -4,8 +4,7 @@ public class Constants {
     public static void main(String[] args)
     {
         //Constants which can not be changed once declared
-        final float PIE;  //final means it can not be changed
-        PIE = 3.45F;
-        System.out.println("PIE");
+        final float PIE= 3.45F;;  //final means value(3.45F) can not be changed;
+        System.out.println(PIE);
     }
 }

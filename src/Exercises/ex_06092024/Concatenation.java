@@ -1,7 +1,7 @@
 package Exercises.ex_06092024;
 
 public class Concatenation {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int a = 10, b = 20;
         String first_name = "Vikku";
         String second_name = "Pikku";

@@ -1,9 +1,10 @@
 package Tasks;
 
 public class task_13092024 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         //Task 1-----multiplication of 10
+        //Using string formatting
         int num=10;
         System.out.printf("%d * %d=%d",num,1,(num*1));
         System.out.println();

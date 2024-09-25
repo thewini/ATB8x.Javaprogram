@@ -1,7 +1,7 @@
 package Exercises.ex_18092024;
 
-public class Type_Casting {
-    public static void main(String args[])
+public class TypeCasting {
+    public static void main(String[] args)
     {
         //Type Casting
         //widening--without data loss
@@ -27,7 +27,6 @@ public class Type_Casting {
         float total_price2=(float)course_fee+gst;   //widening---exlpicit---valid
         System.out.println(total_price1);
         System.out.println(total_price2);
-
 
 
     }

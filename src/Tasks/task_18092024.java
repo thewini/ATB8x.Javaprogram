@@ -1,7 +1,7 @@
 package Tasks;
 
 public class task_18092024 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         //Task1
         // Give some another example of Widening with Implicit and Explicit, Narrowing with implicit and explicit.

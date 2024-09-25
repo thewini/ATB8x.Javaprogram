@@ -1,7 +1,7 @@
 package Exercises.ex_18092024;
 
 public class Increment_Decrement {
-public static void main(String args[])
+public static void main(String[] args)
     {
         //Pre increment
         int a=10;

@@ -1,7 +1,7 @@
 package Tasks;
 
 public class task_16092024 {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         /*
         1.Difference between = and  ==?
@@ -16,9 +16,9 @@ public class task_16092024 {
 
         4.short s = 10;
         char c = 'A'; //65
-        System.out.println(c);   //here ity will be print A
+        System.out.println(c);   //here it will print A value
         System.out.println('A'==65);  //result will be true bcz A=65
-        int ss = s+c;   //only for concatenation char value will be converted to ascii A=65
+        int ss = s+c;
         System.out.println(ss);
         ss=10+65----75 will be the output
 
